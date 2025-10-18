@@ -10,6 +10,7 @@ class PersonsKtTest {
         val P3 = Person("Tatyana", "Petrova", 36)
         val P4 = Person("Natalya", "Sidorova", 50)
         val P5 = Person("Nilolay", "Zatochkin", 65)
+
     }
 
     private val persons = listOf(P1, P2, P3, P4, P5).shuffled()
